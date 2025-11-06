@@ -87,7 +87,8 @@ int main()
 
 
 ## OUTPUT
-![image](https://github.com/22009011/Linux-IPC-Message-Queues/assets/118343461/7b460bc3-6f99-4790-9bdd-0c35fda34427)
+<img width="1920" height="888" alt="image" src="https://github.com/user-attachments/assets/eb1ae470-4dd7-4db8-92f5-962e06fbbded" />
+
 
 
 
